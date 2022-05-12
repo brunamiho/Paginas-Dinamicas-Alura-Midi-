@@ -1,1 +1,1 @@
-Olá, nesse projeto eu aprendi alguns recursos do JavaScript para criar uma página que permite a interação do usuário.
+Olá, nesse projeto eu aprendi alguns recursos do JavaScript para criar uma página que permite a interação com o usuário.
